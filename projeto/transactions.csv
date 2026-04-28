@@ -1,0 +1,7 @@
+description,amount,category,type,date
+Salario,5000.0,Salario,INCOME,2023-10-01
+Renda,1200.0,Habitacao,EXPENSE,2023-10-05
+Supermercado,450.0,Alimentacao,EXPENSE,2023-10-07
+Freelance,1000.0,Trabalho,INCOME,2023-10-10
+Uber,80.0,Transporte,EXPENSE,2023-10-12
+Restaurante,150.0,Alimentacao,EXPENSE,2023-10-15

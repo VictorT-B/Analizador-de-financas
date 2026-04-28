@@ -1,0 +1,7 @@
+=== RELATÓRIO FINANCEIRO ===
+Saldo Total: R$ 4120,00
+
+Gastos por Categoria:
+- Transporte: R$ 80,00
+- Habitacao: R$ 1200,00
+- Alimentacao: R$ 600,00
